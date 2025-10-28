@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Waseem Yahya</h1>
-<h3 align="center">A passionate competitive programmer from Palestine</h3>
+<h3 align="center">Computer Science Student at Birzeit University || Expert at Codeforces</h3>
 
 - 📫 How to reach me **waseemyahya17@gmail.com**
 
